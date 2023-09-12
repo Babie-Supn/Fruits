@@ -1,0 +1,30 @@
+#fruit tr td img{
+    width:20px;
+    height:20px;
+}
+div table{
+   margin: 0px auto;
+    border:3px solid lightblue;
+}
+body{
+    background: gray;
+}
+a{
+    text-decoration: none;
+    color: pink;
+}
+a:hover{
+    color: lightgoldenrodyellow;
+}
+
+#fruit tr,td,th{
+    border-right: 1px solid lightblue;
+    border-bottom: 1px solid lightblue;
+}
+#fruit tr td a{
+    text-underline: pink;
+    color: pink;
+}
+.btn{
+
+}
